@@ -30,7 +30,7 @@ nav .icon-logo {
 .navtrans {
   position:absolute;
   z-index: 10;
-  background-color: #e0e3e6;
+  background-color: rgba(0,0,0,0);
 }
 .button-contact {
   float: right;
